@@ -11,8 +11,9 @@ I'm an AI & ML Engineer passionate about extracting patterns and trends from dat
 I focus on deploying scalable ML solutions in production and driving innovative AI/ML projects that make a difference.
 
 ## 📫 Connect with Me
-- [Linktree](https://linktr.ee/elcaiseri)
-- [Medium](https://medium.com/@elcaiseri)
-- [LinkedIn](https://www.linkedin.com/in/elcaiseri)
+
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/elcaiseri)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@elcaiseri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elcaiseri)
 
 Let’s build something amazing together!

@@ -1,6 +1,6 @@
 # Hi, I'm Kassem 👋
 
-I'm an AI & ML Engineer passionate about extracting patterns and trends from data to drive impactful insights. I specialize in building and scaling machine learning models to solve real-world problems.
+I'm an AI / ML Engineer passionate about extracting patterns and trends from data to drive impactful insights. I specialize in building and scaling machine learning models to solve real-world problems.
 
 - 🔬 **Role:** AI/ML Engineer at Velents Technologies UG
 - 🎓 **Education:** M.Sc. Student at Cairo University

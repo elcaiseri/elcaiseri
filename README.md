@@ -12,6 +12,7 @@ I focus on deploying scalable ML solutions in production and driving innovative 
 
 ## 📫 Connect with Me
 
+[![Website](https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://elcaiseri.com)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/elcaiseri)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@elcaiseri)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elcaiseri)

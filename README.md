@@ -5,7 +5,7 @@ I'm an AI / ML Engineer passionate about extracting patterns and trends from dat
 - 🔬 **Role:** AI/ML Engineer.
 - 🎓 **Education:** M.Sc. Student at Cairo University
 - 🏆 **Achievements:** Kaggle Master, Top 1% in competitions, Top-rated freelancer on Upwork
-- 🖥️ **Skills:** Python, ML, Deep Learning, NLP, Data Modeling, Production Scaling
+- 🖥️ **Skills:** Python, ML, Deep Learning, NLP, LLMs, Data Modeling, Production Scaling
 
 ## 🚀 What I Do
 I focus on deploying scalable ML solutions in production and driving innovative AI/ML projects that make a difference.

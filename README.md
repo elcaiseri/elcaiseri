@@ -1,18 +1,27 @@
-# Hi, I'm Kassem 👋
+# Hi, I'm Islam Kassem 👋
 
-I'm an AI / ML Engineer passionate about extracting patterns and trends from data to drive impactful insights. I specialize in building and scaling machine learning models to solve real-world problems.
+- 🔬 **Role:** AI/ML Engineer  
+- 🎓 **Education:** M.Sc. in Data Science, Cairo University  
+- 🏆 **Achievements:** Kaggle Master (Top 1%), Top-rated Upwork freelancer  
+- 🖥️ **Skills:** Python, Machine Learning, Deep Learning, NLP, LLMs, AI Agents, Data Modeling, Production Scaling  
 
-- 🔬 **Role:** AI/ML Engineer.
-- 🎓 **Education:** M.Sc. Student at Cairo University
-- 🏆 **Achievements:** Kaggle Master, Top 1% in competitions, Top-rated freelancer on Upwork
-- 🖥️ **Skills:** Python, ML, Deep Learning, NLP, LLMs, Data Modeling, Production Scaling
+---
 
-## 🚀 What I Do
-I focus on deploying scalable ML solutions in production and driving innovative AI/ML projects that make a difference.
+## 🚀 What I'm building
 
-## 📫 Connect with Me
+I build production-grade AI systems focused on LLM inference, AI agents, and GPU-accelerated serving (vLLM on multi-GPU Kubernetes clusters), RAG architectures, and bilingual Arabic/English NLP pipelines — from model development to scalable deployment.
 
-[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/elcaiseri)
+---
+
+## 📫 Connect
+
+[![Website](https://img.shields.io/badge/kassem.dev-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kassem.dev)
+[![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://kassem.dev/resume/Islam_Kassem_AI_ML_Engineer_ATS_Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elcaiseri)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@elcaiseri)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/elcaiseri)
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/elcaiseri)
 
-Let’s build something amazing together!
+---
+
+Let’s build something impactful.

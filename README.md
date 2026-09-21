@@ -1,27 +1,20 @@
-# Hi, I'm Islam Kassem 👋
+# Islam Kassem
 
-- 🔬 **Role:** AI/ML Engineer  
-- 🎓 **Education:** M.Sc. in Data Science, Cairo University  
-- 🏆 **Achievements:** Kaggle Master (Top 1%), Top-rated Upwork freelancer  
-- 🖥️ **Skills:** Python, Machine Learning, Deep Learning, NLP, LLMs, AI Agents, Data Modeling, Production Scaling  
+**Senior AI/ML Engineer** · LLM serving · Agentic RAG · Arabic/English NLP
 
----
+[![Website](https://img.shields.io/badge/kassem.dev-111111?style=flat&logo=googlechrome&logoColor=white)](https://kassem.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elcaiseri)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Master-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/elcaiseri)
 
-## 🚀 What I'm building
+I lead an AI engineering team across Saudi Arabia, Egypt, and India, and I ship LLM systems that run in production. 8 years in industry, 5+ in AI. Based in Riyadh, working in Arabic and English.
 
-I build production-grade AI systems focused on LLM inference, AI agents, and GPU-accelerated serving (vLLM on multi-GPU Kubernetes clusters), RAG architectures, and bilingual Arabic/English NLP pipelines — from model development to scalable deployment.
+## What I work on
 
----
+- **LLM serving:** vLLM on multi-GPU Kubernetes
+- **Agentic RAG:** strategizing, persona-specific, and verifier agents
+- **Bilingual NLP:** Arabic/English pipelines
+- **AI agents and MCP**
 
-## 📫 Connect
+## Background
 
-[![Website](https://img.shields.io/badge/kassem.dev-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kassem.dev)
-[![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://kassem.dev/resume/Islam_Kassem_AI_ML_Engineer_ATS_Resume.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elcaiseri)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@elcaiseri)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/elcaiseri)
-[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/elcaiseri)
-
----
-
-Let’s build something impactful.
+🎓 M.Sc. Data Science (in progress), Cairo University · 🏆 Top 1% on Kaggle · Upwork 100% Job Success Score
